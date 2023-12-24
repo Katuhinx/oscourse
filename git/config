@@ -1,0 +1,38 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = http://sed.ispras.ru/git/oscourse-2023-msu
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "lab1"]
+	remote = origin
+	merge = refs/heads/lab1
+[branch "lab3"]
+	remote = origin
+	merge = refs/heads/lab3
+[remote "myrepo"]
+	url = http://sed.ispras.ru/git/pismennaya-osprac
+	fetch = +refs/heads/*:refs/remotes/myrepo/*
+[branch "lab4"]
+	remote = origin
+	merge = refs/heads/lab4
+[branch "lab5"]
+	remote = origin
+	merge = refs/heads/lab5
+[branch "working-lab5"]
+	remote = myrepo
+	merge = refs/heads/working-lab5
+[branch "lab6"]
+	remote = origin
+	merge = refs/heads/lab6
+[branch "lab7"]
+	remote = origin
+	merge = refs/heads/lab7
+[branch "working-lab7"]
+	remote = myrepo
+	merge = refs/heads/working-lab7
+[branch "lab8"]
+	remote = origin
+	merge = refs/heads/lab8

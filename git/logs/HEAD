@@ -1,0 +1,41 @@
+0000000000000000000000000000000000000000 2f507ad443c10c1aca35db5c322b24efd3cc008d katrin <katrin@katrin-Virtual-Machine.(none)> 1695222147 +0300	clone: from http://sed.ispras.ru/git/oscourse-2023-msu
+2f507ad443c10c1aca35db5c322b24efd3cc008d eb1d0bf3dbb3cd765f326259597dacee1ad0e988 Katuhinx <pismennayaka02@mail.ru> 1696020729 +0300	pull: Fast-forward
+eb1d0bf3dbb3cd765f326259597dacee1ad0e988 5bf1d811aada661d327784380e38bc11302384e5 Katuhinx <pismennayaka02@mail.ru> 1696020774 +0300	checkout: moving from lab1 to lab3
+5bf1d811aada661d327784380e38bc11302384e5 5bf1d811aada661d327784380e38bc11302384e5 Katuhinx <pismennayaka02@mail.ru> 1696020803 +0300	checkout: moving from lab3 to working-lab3
+5bf1d811aada661d327784380e38bc11302384e5 5bf1d811aada661d327784380e38bc11302384e5 Katuhinx <pismennayaka02@mail.ru> 1696766939 +0300	checkout: moving from working-lab3 to working-lab2
+5bf1d811aada661d327784380e38bc11302384e5 eb07ab953914f4399a459f7434deb51dc0c4c691 Katuhinx <pismennayaka02@mail.ru> 1696766970 +0300	commit: Lab 2 done.
+eb07ab953914f4399a459f7434deb51dc0c4c691 5bf1d811aada661d327784380e38bc11302384e5 Katuhinx <pismennayaka02@mail.ru> 1696767461 +0300	checkout: moving from working-lab2 to lab3
+5bf1d811aada661d327784380e38bc11302384e5 5bf1d811aada661d327784380e38bc11302384e5 Katuhinx <pismennayaka02@mail.ru> 1696767468 +0300	checkout: moving from lab3 to lab3
+5bf1d811aada661d327784380e38bc11302384e5 eb07ab953914f4399a459f7434deb51dc0c4c691 Katuhinx <pismennayaka02@mail.ru> 1696767485 +0300	checkout: moving from lab3 to working-lab2
+eb07ab953914f4399a459f7434deb51dc0c4c691 eb07ab953914f4399a459f7434deb51dc0c4c691 Katuhinx <pismennayaka02@mail.ru> 1696767549 +0300	checkout: moving from working-lab2 to working-lab3
+eb07ab953914f4399a459f7434deb51dc0c4c691 2153f3894d40524d67be041c4d25989c4db75930 Katuhinx <pismennayaka02@mail.ru> 1696771938 +0300	commit: Lab 3 done.
+2153f3894d40524d67be041c4d25989c4db75930 5f7e198ce08dcc5f1a12fd99bf27beaa5b074bc8 Katuhinx <pismennayaka02@mail.ru> 1698748982 +0300	commit: Lab 3 done.
+5f7e198ce08dcc5f1a12fd99bf27beaa5b074bc8 3109124341fa9425402bcd6184ed97527c5da1c6 Katuhinx <pismennayaka02@mail.ru> 1698749142 +0300	checkout: moving from working-lab3 to lab4
+3109124341fa9425402bcd6184ed97527c5da1c6 5f7e198ce08dcc5f1a12fd99bf27beaa5b074bc8 Katuhinx <pismennayaka02@mail.ru> 1698749188 +0300	checkout: moving from lab4 to working-lab3
+5f7e198ce08dcc5f1a12fd99bf27beaa5b074bc8 5f7e198ce08dcc5f1a12fd99bf27beaa5b074bc8 Katuhinx <pismennayaka02@mail.ru> 1698749203 +0300	checkout: moving from working-lab3 to working-lab4
+5f7e198ce08dcc5f1a12fd99bf27beaa5b074bc8 5f8b2312a66274d5263a2dc8add769e0639108e3 Katuhinx <pismennayaka02@mail.ru> 1698749223 +0300	merge lab4: Merge made by the 'ort' strategy.
+5f8b2312a66274d5263a2dc8add769e0639108e3 307371ca2fb398e5b0d933c4b928f247c7d667f8 Katuhinx <pismennayaka02@mail.ru> 1698755408 +0300	commit: Lab 4 done.
+307371ca2fb398e5b0d933c4b928f247c7d667f8 bbf052627b03e90e2fbd96c5e70896dbe2680514 Katuhinx <pismennayaka02@mail.ru> 1699958760 +0300	checkout: moving from working-lab4 to lab5
+bbf052627b03e90e2fbd96c5e70896dbe2680514 307371ca2fb398e5b0d933c4b928f247c7d667f8 Katuhinx <pismennayaka02@mail.ru> 1699958789 +0300	checkout: moving from lab5 to working-lab4
+307371ca2fb398e5b0d933c4b928f247c7d667f8 307371ca2fb398e5b0d933c4b928f247c7d667f8 Katuhinx <pismennayaka02@mail.ru> 1699958816 +0300	checkout: moving from working-lab4 to working-lab5
+307371ca2fb398e5b0d933c4b928f247c7d667f8 c10271f7e2d39ad714bfde468e3c8f9bdc0bd9bf Katuhinx <pismennayaka02@mail.ru> 1699958992 +0300	commit (merge): working-lab5 before merge
+c10271f7e2d39ad714bfde468e3c8f9bdc0bd9bf 8ab657380fecb3fecae6f5fdeb03bd25da8f834f Katuhinx <pismennayaka02@mail.ru> 1700564388 +0300	commit: Lab 5 done.
+8ab657380fecb3fecae6f5fdeb03bd25da8f834f 3109124341fa9425402bcd6184ed97527c5da1c6 Katuhinx <pismennayaka02@mail.ru> 1700565971 +0300	checkout: moving from working-lab5 to lab4
+3109124341fa9425402bcd6184ed97527c5da1c6 0a26d71862f2288c457342063fe8bddb10cae911 Katuhinx <pismennayaka02@mail.ru> 1700566006 +0300	checkout: moving from lab4 to lab6
+0a26d71862f2288c457342063fe8bddb10cae911 8ab657380fecb3fecae6f5fdeb03bd25da8f834f Katuhinx <pismennayaka02@mail.ru> 1700566027 +0300	checkout: moving from lab6 to working-lab5
+8ab657380fecb3fecae6f5fdeb03bd25da8f834f 8ab657380fecb3fecae6f5fdeb03bd25da8f834f Katuhinx <pismennayaka02@mail.ru> 1700566037 +0300	checkout: moving from working-lab5 to working-lab6
+8ab657380fecb3fecae6f5fdeb03bd25da8f834f 4d76c433e12c5046a4a3a4a0205e1bb5bc936487 Katuhinx <pismennayaka02@mail.ru> 1700566049 +0300	merge lab6: Merge made by the 'ort' strategy.
+4d76c433e12c5046a4a3a4a0205e1bb5bc936487 710fb628835b74ead441b43e31f7188aa1334a28 Katuhinx <pismennayaka02@mail.ru> 1700568261 +0300	commit: Lab 6 done.
+710fb628835b74ead441b43e31f7188aa1334a28 9643e30d9d0ead47e91a986ddb691cb473db0c90 Katuhinx <pismennayaka02@mail.ru> 1702083898 +0300	checkout: moving from working-lab6 to lab7
+9643e30d9d0ead47e91a986ddb691cb473db0c90 710fb628835b74ead441b43e31f7188aa1334a28 Katuhinx <pismennayaka02@mail.ru> 1702083937 +0300	checkout: moving from lab7 to working-lab6
+710fb628835b74ead441b43e31f7188aa1334a28 710fb628835b74ead441b43e31f7188aa1334a28 Katuhinx <pismennayaka02@mail.ru> 1702083966 +0300	checkout: moving from working-lab6 to working-lab7
+710fb628835b74ead441b43e31f7188aa1334a28 710fb628835b74ead441b43e31f7188aa1334a28 Katuhinx <pismennayaka02@mail.ru> 1702084561 +0300	reset: moving to HEAD@{0}
+710fb628835b74ead441b43e31f7188aa1334a28 0a26d71862f2288c457342063fe8bddb10cae911 Katuhinx <pismennayaka02@mail.ru> 1702085188 +0300	checkout: moving from working-lab7 to lab6
+0a26d71862f2288c457342063fe8bddb10cae911 5eb1a71ae9cdda460d750d68d2c21763f7d5fa02 Katuhinx <pismennayaka02@mail.ru> 1702085234 +0300	pull: Fast-forward
+5eb1a71ae9cdda460d750d68d2c21763f7d5fa02 9643e30d9d0ead47e91a986ddb691cb473db0c90 Katuhinx <pismennayaka02@mail.ru> 1702085281 +0300	checkout: moving from lab6 to lab7
+9643e30d9d0ead47e91a986ddb691cb473db0c90 710fb628835b74ead441b43e31f7188aa1334a28 Katuhinx <pismennayaka02@mail.ru> 1702085292 +0300	checkout: moving from lab7 to working-lab6
+710fb628835b74ead441b43e31f7188aa1334a28 710fb628835b74ead441b43e31f7188aa1334a28 Katuhinx <pismennayaka02@mail.ru> 1702085304 +0300	checkout: moving from working-lab6 to working-lab7
+710fb628835b74ead441b43e31f7188aa1334a28 e3d87bddcf76471b06f7e857e1e0ba49e887c4db Katuhinx <pismennayaka02@mail.ru> 1702085455 +0300	commit (merge): Merge branch 'lab7' into working-lab7
+e3d87bddcf76471b06f7e857e1e0ba49e887c4db 649c50671925337462b4bc48ae832d7ace9d1cfd Katuhinx <pismennayaka02@mail.ru> 1702089053 +0300	commit: Lab 7 done.
+649c50671925337462b4bc48ae832d7ace9d1cfd dd2d90a050192a110a6dc644b7b88095c656fd97 Katuhinx <pismennayaka02@mail.ru> 1702980706 +0300	checkout: moving from working-lab7 to lab8
+dd2d90a050192a110a6dc644b7b88095c656fd97 dd2d90a050192a110a6dc644b7b88095c656fd97 Katuhinx <pismennayaka02@mail.ru> 1702980813 +0300	checkout: moving from lab8 to lab8
